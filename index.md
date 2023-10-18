@@ -8,23 +8,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-oooo
-
-**This is a sentence.**\
-_This is a sentence._
-
-aaaaaaaaaaa
-
-> ![](assets/images/a.png)\
-> **Țıs is a šentenče.**\
-> _This is a sentence._
-
-Another paragraph with more words.
-
-> ![](assets/images/b.png)\
-> **Țıs is another šentenče.**\
-> _This is another sentence._
-
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -67,16 +50,6 @@ end
 ###### Header 6
 
 oooooooooooooooooooooooooooooooooooooo
-
-> **Ab cde fghijjk lem en op qrst.**
-> 
-> _Clearly, it is what it is._ 
-
-
-| |
-|:---|
-| **Ab cde fghijjk lem en op qrst.**<br>
- _Clearly, it is what it is._ |
 
 ### There's a horizontal rule below this.
 
