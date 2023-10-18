@@ -17,7 +17,7 @@ _This is a sentence._
 
 aaaaaaaaaaa
 
-> ![](images/a.png)\
+> ![](assets/images/a.png)\
 > **Țıs is a šentenče.**\
 > _This is a sentence._
 
