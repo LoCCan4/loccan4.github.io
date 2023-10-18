@@ -51,6 +51,8 @@ end
 
 ###### Header 6
 
+oooooooooooooooooooooooooooooooooooooo
+
 > **Ab cde fghijjk lem en op qrst.**
 > 
 > _Clearly, it is what it is._ 
@@ -58,8 +60,8 @@ end
 
 | |
 |:---|
-| **Ab cde fghijjk lem en op qrst.** |
-| _Clearly, it is what it is._ |
+| **Ab cde fghijjk lem en op qrst.**<br>
+ _Clearly, it is what it is._ |
 
 ### There's a horizontal rule below this.
 
