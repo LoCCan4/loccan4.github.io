@@ -51,12 +51,15 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+> **Ab cde fghijjk lem en op qrst.**
+> 
+> _Clearly, it is what it is._ 
+
+
+| |
+|:---|
+| **Ab cde fghijjk lem en op qrst.** |
+| _Clearly, it is what it is._ |
 
 ### There's a horizontal rule below this.
 
