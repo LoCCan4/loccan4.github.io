@@ -21,6 +21,12 @@ aaaaaaaaaaa
 > **Țıs is a šentenče.**\
 > _This is a sentence._
 
+Another paragraph with more words.
+
+> ![](assets/images/b.png)\
+> **Țıs is another šentenče.**\
+> _This is another sentence._
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
