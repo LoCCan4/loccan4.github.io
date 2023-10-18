@@ -18,4 +18,10 @@ Another paragraph with more words.
 
 test
 
+> ![](assets/images/c.png)\
+> **Țıs is another.**\
+> _This is another sentence._
+
+test
+
 [back](./)
