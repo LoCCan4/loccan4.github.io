@@ -17,7 +17,7 @@ _This is a sentence._
 
 aaaaaaaaaaa
 
-> ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)\
+> ![](images/a.png)\
 > **Țıs is a šentenče.**\
 > _This is a sentence._
 
