@@ -36,4 +36,10 @@ test
 
 test
 
+> ![](assets/images/f.png)\
+> **Țıs is another.**\
+> _This is another sentence._
+
+test
+
 [back](./)
