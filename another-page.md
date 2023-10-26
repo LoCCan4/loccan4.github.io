@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to another page
 
-> <svg data-src="/assets/images/e.svg"></svg>\
+> <svg data-src="/assets/images/e.svg"></svg>
 > **Țıs is another.**\
 > _This is another sentence._
 
