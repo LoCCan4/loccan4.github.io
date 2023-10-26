@@ -36,6 +36,23 @@
       </div>
     </footer>
   </div>
+  <script>
+      // Function to change the stroke width of all SVG elements
+      function changeStrokeWidth() {
+          // Select all SVG elements on the page
+          const svgs = document.querySelectorAll('svg');
 
+          // Iterate through the SVG elements
+          svgs.forEach(svg => {
+              // Change the stroke width for each SVG element
+              svg.querySelectorAll('[stroke]').forEach(element => {
+                  element.setAttribute('stroke-width', '9'); // Set the new stroke width here
+              });
+          });
+      }
+
+      // Call the function when the page is loaded
+      window.onload = changeStrokeWidth;
+  </script>
 </body>
 </html>
