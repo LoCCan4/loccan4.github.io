@@ -19,9 +19,8 @@ svg {
   box-sizing: border-box;
   height: 60px;
   display: inline-block;
-  stroke: white;
   stroke-width: 8;
-  
+  filter: invert(33%) sepia(74%) saturate(1747%) hue-rotate(37deg) brightness(102%) contrast(102%);
 }
 
 a {
