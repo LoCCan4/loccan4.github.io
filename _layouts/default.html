@@ -38,15 +38,23 @@
     </footer>
   </div>
 <script>
-        // Function to change the stroke width of all relevant SVG elements
+        // Function to change the stroke width of all path elements
         function changeStrokeWidth() {
-            // Select all path and ellipse elements within the SVG
-            const elements = document.querySelectorAll('svg path, svg ellipse');
+            // Select all path elements within the SVG
+            const paths = document.querySelectorAll('svg path');
+            const ellipse = document.querySelectorAll('svg ellipse');
 
-            // Iterate through the elements
-            elements.forEach(element => {
-                element.setAttribute('stroke-width', '8'); // Set the new stroke width here
-                element.setAttribute('stroke', 'blue'); // Set the new stroke width here
+            // Iterate through the path elements
+            paths.forEach(path => {
+                // Change the stroke width for each path element
+                path.setAttribute('stroke-width', '3'); // Set the new stroke width here
+                path.setAttribute('stroke', 'green'); // Set the new stroke width here
+            });
+          // Iterate through the ellipse elements
+            paths.forEach(ellipse => {
+                // Change the stroke width for each path element
+                path.setAttribute('stroke-width', '3'); // Set the new stroke width here
+                path.setAttribute('stroke', 'green'); // Set the new stroke width here
             });
         }
 
