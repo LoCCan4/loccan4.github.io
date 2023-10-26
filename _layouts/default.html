@@ -37,6 +37,22 @@
       </div>
     </footer>
   </div>
+    <script>
+        // Function to change the stroke width of all path elements
+        function changeStrokeWidth() {
+            // Select all path elements within the SVG
+            const paths = document.querySelectorAll('svg path');
 
+            // Iterate through the path elements
+            paths.forEach(path => {
+                // Change the stroke width for each path element
+                path.setAttribute('stroke-width', '13'); // Set the new stroke width here
+                path.setAttribute('stroke', 'red'); // Set the new stroke color here
+            });
+        }
+
+        // Call the function when the page is loaded
+        window.onload = changeStrokeWidth;
+    </script>
 </body>
 </html>
