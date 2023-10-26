@@ -17,6 +17,9 @@ strong {
 svg {
   stroke: blue;
   stroke-width: 3;
+  max-width: 100%;
+  box-sizing: border-box;
+  height: 60px;
 }
 
 a {
