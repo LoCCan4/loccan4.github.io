@@ -30,7 +30,7 @@ test
 
 test
 
-> <img class="svg" src="/assets/images/e.svg">\
+> <svg data-src="/assets/images/e.svg"></svg>\
 > **Țıs is another.**\
 > _This is another sentence._
 
