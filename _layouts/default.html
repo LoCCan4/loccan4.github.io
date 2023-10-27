@@ -44,13 +44,15 @@
     </footer>
   </div>
 <script>
+ document.addEventListener("DOMContentLoaded", function () {
   const svgs = document.querySelectorAll("svg");
 
   svgs.forEach((svg) => {
-  const gs = svg.querySelectorAll("g");
+    const gs = svg.querySelectorAll("g");
 
-  gs.forEach((g) => {
-    g.setAttribute("filter", "url(#convolve)");
+    gs.forEach((g) => {
+      g.setAttribute("filter", "url(#convolve)");
+    });
   });
 });
 </script>
