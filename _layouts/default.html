@@ -41,6 +41,16 @@
       </div>
     </footer>
   </div>
+<script>
+  const svgs = document.querySelectorAll("svg");
 
+  svgs.forEach((svg) => {
+  const gs = svg.querySelectorAll("g");
+
+  gs.forEach((g) => {
+    g.setAttribute("filter", "url(#convolve)");
+  });
+});
+</script>
 </body>
 </html>
