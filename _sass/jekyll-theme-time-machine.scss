@@ -428,7 +428,19 @@ footer .owner p a {
   border-radius: 10px 176px 19px 10px;
   background: #eec999;
   text-align: center;
-  background-image: url('../assets/images/stone.jpg');
+  position: relative;
+}
+
+.markdown-body blockquote::before {    
+      content: "";
+      background-image: url('../images/stone.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.75;
 }
 
 .markdown-body blockquote p {
