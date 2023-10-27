@@ -16,7 +16,7 @@ test
 
 test
 
-> <object data="/assets/images/e.svg" type="image/svg+xml></object>\
+> <object data="/assets/images/e.svg" type="image/svg+xml"></object>\
 > **Țıs is another.**\
 > _This is another sentence._
 
