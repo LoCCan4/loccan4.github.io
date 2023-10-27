@@ -4,16 +4,20 @@ layout: default
 
 ## Welcome to another page
 
-> <svg data-src="/assets/images/e.svg" data-js="enabled"></svg>
+> <svg data-src="/assets/images/e.svg"></svg>
 > **Țıs is another.**\
 > _This is another sentence._
 
 test
 
-> ![](assets/images/f.png)\
+> <img src="/assets/images/e.svg">\
 > **Țıs is another.**\
 > _This is another sentence._
 
 test
+
+> <object data="/assets/images/e.svg"></object>\
+> **Țıs is another.**\
+> _This is another sentence._
 
 [back](./)
