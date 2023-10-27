@@ -433,8 +433,8 @@ footer .owner p a {
   width: max-content;
   margin-left: auto;
   margin-right: auto;
-  position-relative;
-  z-index: 2
+  position: relative;
+  z-index: 2;
 }
 
 .markdown-body blockquote:before {
