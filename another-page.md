@@ -14,10 +14,4 @@ test
 > **Țıs is another.**\
 > _This is another sentence._
 
-test
-
-> <object data="/assets/images/e.svg" type="image/svg+xml"></object>\
-> **Țıs is another.**\
-> _This is another sentence._
-
 [back](./)
