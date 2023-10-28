@@ -23,6 +23,7 @@ Text.
 > _This is another sentence._
 
 <div class="multi">
+
 > <svg data-src="/assets/images/g.svg"></svg>
 > **Țıs is another.**\
 > _This is another sentence._</td>
@@ -30,6 +31,7 @@ Text.
 > <svg data-src="/assets/images/f.svg"></svg>
 > **Țıs is another.**\
 > _This is another sentence._
+
 </div>
 
 [back](./)
