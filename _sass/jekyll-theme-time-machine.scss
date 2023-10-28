@@ -456,6 +456,19 @@ footer .owner p a {
   color: #ddd;
 }
 
+.blockquote-container {
+  display: flex;
+  justify-content: space-between; 
+}
+
+.blockquote {
+  background-color: #f1f1f1;
+  border-left: 5px solid #d3d3d3;
+  padding: 10px;
+  margin: 5px;
+  font-style: italic;
+}
+
 .markdown-body img {
   max-width: 100%;
   box-sizing: border-box;
