@@ -25,13 +25,13 @@ Text.
 <div class="multi">
   <div class="blockquote">
     <svg data-src="/assets/images/f.svg"></svg>
-    <p><strong>Țıs is another.**\</strong></p>
-    <p><em>This is another sentence.</em></p>
+    <p><strong>Țıs is another.**\</strong><br>
+    <em>This is another sentence.</em></p>
   </div>
     <div class="blockquote">
     <svg data-src="/assets/images/g.svg"></svg>
-    <p><strong>Țıs is another.**\</strong></p>
-    <p><em>This is another sentence.</em></p>
+    <p><strong>Țıs is another.**\</strong><br>
+    <em>This is another sentence.</em></p>
   </div>
 </div>
 
