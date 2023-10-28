@@ -22,12 +22,16 @@ Text.
 > **Țıs is another.**\
 > _This is another sentence._
 
-<div class="blockquote-container">
+<div class="multi">
   <div class="blockquote">
-    > This is a blockquote with **Markdown** syntax.
+    <svg data-src="/assets/images/f.svg"></svg>
+    <p><strong>Țıs is another.**\</strong></p>
+    <p><em>This is another sentence.</em></p>
   </div>
-  <div class="blockquote">
-    > Another blockquote with *Markdown* syntax.
+    <div class="blockquote">
+    <svg data-src="/assets/images/g.svg"></svg>
+    <p><strong>Țıs is another.**\</strong></p>
+    <p><em>This is another sentence.</em></p>
   </div>
 </div>
 
