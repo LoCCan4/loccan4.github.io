@@ -22,4 +22,15 @@ Text.
 > **Țıs is another.**\
 > _This is another sentence._
 
+<table><tbody><tr>
+<td>
+> <svg data-src="/assets/images/g.svg"></svg>
+> **Țıs is another.**\
+> _This is another sentence._</td>
+<td></td>
+> <svg data-src="/assets/images/f.svg"></svg>
+> **Țıs is another.**\
+> _This is another sentence._
+</tr></tbody></table>
+
 [back](./)
