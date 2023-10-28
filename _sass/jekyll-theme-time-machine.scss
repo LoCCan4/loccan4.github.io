@@ -474,6 +474,13 @@ footer .owner p a {
   position: relative;
 }
 
+.multi {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
 .markdown-body img {
   max-width: 100%;
   box-sizing: border-box;
