@@ -474,6 +474,13 @@ footer .owner p a {
   position: relative;
 }
 
+.blockquote p {
+  margin-top: 6px;
+  padding-bottom: 15px;
+  position: relative;
+  color: #ddd;
+}
+
 .multi {
   display: flex;
   justify-content: space-between;
