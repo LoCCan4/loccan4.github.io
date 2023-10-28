@@ -22,14 +22,17 @@ Text.
 > **Țıs is another.**\
 > _This is another sentence._
 
-<div class="markdown-body">
-> <svg data-src="/assets/images/g.svg"></svg>
-> **Țıs is another.**\
-> _This is another sentence._</td>
-
-> <svg data-src="/assets/images/f.svg"></svg>
-> **Țıs is another.**\
-> _This is another sentence._
+<div class="multi">
+<blockquote>
+<svg data-src="/assets/images/g.svg"></svg>
+**Țıs is another.**\
+_This is another sentence._</td>
+</blockquote>
+<blockquote>
+<svg data-src="/assets/images/f.svg"></svg>
+**Țıs is another.**\
+_This is another sentence._
+</blockquote>
 </div>
 
 [back](./)
