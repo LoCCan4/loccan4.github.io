@@ -38,6 +38,41 @@ a:hover {
   color: #90D355;
 }
 
+.comment {
+	border: 1px dotted;
+  border-radius: 15px;
+  font-style: italic;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: justify;
+  background-color: black;
+  color: #E0E0E0;
+}
+
+.comment::before {
+    background-image: url(info.png);
+    background-size: cover;
+    width: 50px; 
+    height: 50px;
+    content:"";
+    margin-top:0px;
+    float:left;
+}
+
+.editor::before {
+  content: "Editor's note:";
+  color:#6699ff;
+  font-size: 12px;
+}
+
+.editor {
+  color:#6699ff;
+  font-size: 12px;
+}
+
+
 code, pre {
   font-family: 'Monaco', 'Lucida Console', monospace;
 }
