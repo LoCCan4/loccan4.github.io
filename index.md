@@ -4,9 +4,22 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Link to another page](./another-page.html).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+oooo
+
+**This is a sentence.**\
+_This is a sentence._
+
+aaaaaaaaaaa
+
+> ![](assets/images/a.png)\
+> **Țıs is a šentenče.**\
+> _This is a sentence._
 
 # Header 1
 
@@ -50,6 +63,16 @@ end
 ###### Header 6
 
 oooooooooooooooooooooooooooooooooooooo
+
+> **Ab cde fghijjk lem en op qrst.**
+> 
+> _Clearly, it is what it is._ 
+
+
+| |
+|:---|
+| **Ab cde fghijjk lem en op qrst.**<br>
+ _Clearly, it is what it is._ |
 
 ### There's a horizontal rule below this.
 
